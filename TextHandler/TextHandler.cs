@@ -11,7 +11,7 @@ namespace BecomeADeveloperWinter2023.TextHandler
     {
         public string? Text { get; set; }
         private const string unnecessaryChars = ",.:!?<>\"-=+(){}/\\_";
-        private const char wordSpliter = ' ';
+        private const char wordSplitter = ' ';
 
         public TextHandler(string text)
         {
