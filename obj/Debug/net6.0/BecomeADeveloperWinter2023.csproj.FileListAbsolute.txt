@@ -1,0 +1,15 @@
+E:\Programming\Own\Experiments\BecomeADeveloperWinter2023\BecomeADeveloperWinter2023\bin\Debug\net6.0\BecomeADeveloperWinter2023.exe
+E:\Programming\Own\Experiments\BecomeADeveloperWinter2023\BecomeADeveloperWinter2023\bin\Debug\net6.0\BecomeADeveloperWinter2023.deps.json
+E:\Programming\Own\Experiments\BecomeADeveloperWinter2023\BecomeADeveloperWinter2023\bin\Debug\net6.0\BecomeADeveloperWinter2023.runtimeconfig.json
+E:\Programming\Own\Experiments\BecomeADeveloperWinter2023\BecomeADeveloperWinter2023\bin\Debug\net6.0\BecomeADeveloperWinter2023.dll
+E:\Programming\Own\Experiments\BecomeADeveloperWinter2023\BecomeADeveloperWinter2023\bin\Debug\net6.0\BecomeADeveloperWinter2023.pdb
+E:\Programming\Own\Experiments\BecomeADeveloperWinter2023\BecomeADeveloperWinter2023\obj\Debug\net6.0\BecomeADeveloperWinter2023.csproj.AssemblyReference.cache
+E:\Programming\Own\Experiments\BecomeADeveloperWinter2023\BecomeADeveloperWinter2023\obj\Debug\net6.0\BecomeADeveloperWinter2023.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming\Own\Experiments\BecomeADeveloperWinter2023\BecomeADeveloperWinter2023\obj\Debug\net6.0\BecomeADeveloperWinter2023.AssemblyInfoInputs.cache
+E:\Programming\Own\Experiments\BecomeADeveloperWinter2023\BecomeADeveloperWinter2023\obj\Debug\net6.0\BecomeADeveloperWinter2023.AssemblyInfo.cs
+E:\Programming\Own\Experiments\BecomeADeveloperWinter2023\BecomeADeveloperWinter2023\obj\Debug\net6.0\BecomeADeveloperWinter2023.csproj.CoreCompileInputs.cache
+E:\Programming\Own\Experiments\BecomeADeveloperWinter2023\BecomeADeveloperWinter2023\obj\Debug\net6.0\BecomeADeveloperWinter2023.dll
+E:\Programming\Own\Experiments\BecomeADeveloperWinter2023\BecomeADeveloperWinter2023\obj\Debug\net6.0\refint\BecomeADeveloperWinter2023.dll
+E:\Programming\Own\Experiments\BecomeADeveloperWinter2023\BecomeADeveloperWinter2023\obj\Debug\net6.0\BecomeADeveloperWinter2023.pdb
+E:\Programming\Own\Experiments\BecomeADeveloperWinter2023\BecomeADeveloperWinter2023\obj\Debug\net6.0\BecomeADeveloperWinter2023.genruntimeconfig.cache
+E:\Programming\Own\Experiments\BecomeADeveloperWinter2023\BecomeADeveloperWinter2023\obj\Debug\net6.0\ref\BecomeADeveloperWinter2023.dll
