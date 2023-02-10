@@ -26,13 +26,13 @@ namespace BecomeADeveloperWinter2023.TextHandler
         {
             foreach (var ch in unnecessaryChars)
             {
-                Text = Text.Replace(ch, wordSpliter).ToString();
+                Text = Text.Replace(ch, wordSplitter).ToString();
             }
             Text = Regex.Replace(Text, @"\s+", " ");
         }
 
         #region Simplified
-        //This method ignores the dact that words are usually being used multiple times in one text
+        //This method ignores the fact that words are usually being used multiple times in one text
         public char SolveTheProblemSimplified()
         {
             if (string.IsNullOrWhiteSpace(Text))
@@ -100,7 +100,7 @@ namespace BecomeADeveloperWinter2023.TextHandler
             //step 0 - prep
             PrepareText();
             //step 1 - unique words
-            var words = Text.Split(' ').ToList().ConvertAll(x => x.ToLower()).Distinct().ToList();
+            var words = Text.Split(wordSplitter).ToList().ConvertAll(x => x.ToLower()).Distinct().ToList();
             //step 2 - unique chars
             List<char> chars = new List<char>();
 
@@ -136,7 +136,7 @@ namespace BecomeADeveloperWinter2023.TextHandler
 
         private char SelectUniqueChar(List<char> selectedChars)
         {
-            //I suppose that task is not case sensetive
+            //I suppose that the task is not case sensetive
             selectedChars = selectedChars.ConvertAll(x => char.ToLower(x));
 
             var trulyUnique = selectedChars.Where(x => selectedChars.Count(spare => spare == x) < 2).ToList(); ;
